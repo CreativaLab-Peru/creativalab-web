@@ -31,6 +31,7 @@ export default function InicioPage() {
             <p className="lead">
               Combinamos estrategia, diseño y tecnología para convertir los
               desafíos de tu empresa en soluciones que puedas usar.
+
             </p>
             <div className="actions">
               <Link className="btn btn--primary" to="/contacto">
